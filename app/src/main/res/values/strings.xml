@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ProyectoEditorImg</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="bN">Poniendo en blanco y negro</string>
+    <string name="espejo">Espejo</string>
+    <string name="rotando">Rotando</string>
+    <string name="sepia">Poniendo en sepia</string>
+
+    <string name="guardar">¿Desea guardar los cambios?</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="salidaGuarda">La foto ha sido guardada en: </string>
+    <string name="cancelar">Cancelar</string>
+
+</resources>
